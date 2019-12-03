@@ -1,6 +1,21 @@
 # country_code
 
-A new Flutter plugin.
+## 1.example
+(```)   
+
+        Scaffold(
+           appBar: AppBar(
+           title: const Text('Plugin example app'),
+         ),
+           body: CountryListPage(itemClickCallback: (Country country){
+             print('country code:${country.phoneCode}');
+           },),
+         );
+
+(```)
+
+![view](https://github.com/wilson23yang/country_code/blob/master/img/page.jpg "view")
+
 
 ## Getting Started
 
