@@ -14,8 +14,7 @@
 
 ```
 
-![view](https://github.com/wilson23yang/country_code/blob/master/example/img/page.jpg "view"){:width="388px" height="769px"}
-
+<img src="https://github.com/wilson23yang/country_code/blob/master/example/img/page.jpg" align="left" height="769" width="388" >
 
 ## Getting Started
 
