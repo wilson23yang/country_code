@@ -14,7 +14,7 @@
 
 ```
 
-![view](https://github.com/wilson23yang/country_code/blob/master/example/img/page.jpg "view"){:width='388px' height='769px'}
+![view](https://github.com/wilson23yang/country_code/blob/master/example/img/page.jpg "view"){:width="388px" height="769px"}
 
 
 ## Getting Started
