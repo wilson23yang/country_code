@@ -1,7 +1,7 @@
 # country_code
 
 ## 1.example
-(```)   
+```
 
         Scaffold(
            appBar: AppBar(
@@ -12,9 +12,9 @@
            },),
          );
 
-(```)
+```
 
-![view](https://github.com/wilson23yang/country_code/blob/master/img/page.jpg "view")
+![view](https://github.com/wilson23yang/country_code/blob/master/example/img/page.jpg "view")
 
 
 ## Getting Started
